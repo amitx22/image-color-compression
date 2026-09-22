@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+uploads/*
+outputs/*
+
+models/*.pkl
+
+.streamlit/
+.env
