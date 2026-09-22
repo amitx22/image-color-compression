@@ -6,7 +6,7 @@ The project provides an interactive **Streamlit web application** where users ca
 
 ---
 
-## 🚀Live Demo:** `Coming Soon`
+## 🚀Live Demo: https://image-color-compression-jcxzl6elckeb5mb9c4dnapp.streamlit.app/
 
 ---
 
